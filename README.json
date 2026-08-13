@@ -1,0 +1,259 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "🛠 Tools"
+    },
+    {
+      "description": "Tools to measure and compute environmental impacts of AI.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CodeCarbon",
+          "description": "Track emissions from Compute and recommend ways to reduce their impact on the environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:19:34Z",
+            "owner": "mlco2",
+            "repo": "codecarbon",
+            "stars": 1897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "carbontracker",
+          "description": "Track and predict the energy consumption and carbon footprint of training deep learning models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-16T19:59:53Z",
+            "owner": "saintslab",
+            "repo": "carbontracker",
+            "stars": 480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zeus",
+          "description": "A framework for deep learning energy measurement and optimization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:20:16Z",
+            "owner": "ml-energy",
+            "repo": "zeus",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EcoLogits",
+          "description": "Estimates the energy consumption and environmental footprint of LLM inference through APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T06:40:24Z",
+            "owner": "mlco2",
+            "repo": "ecologits",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eco2AI",
+          "description": "A python library which accumulates statistics about power consumption and CO2 emission during running code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-10T22:38:50Z",
+            "owner": "sb-ai-lab",
+            "repo": "Eco2AI",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tracarbon",
+          "description": "Tracks your device's energy consumption and calculates your carbon emissions using your location.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T09:19:26Z",
+            "owner": "fvaleye",
+            "repo": "tracarbon",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AIPowerMeter",
+          "description": "Easily monitor energy usage of machine learning programs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-06T18:50:20Z",
+            "owner": "GreenAI-Uppa",
+            "repo": "AIPowerMeter",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Code-Based Tools"
+    },
+    {
+      "description": "Tools to monitor power consumption and environmental impacts.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Scaphandre",
+          "description": "A metrology agent dedicated to electrical power consumption metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-19T18:33:40Z",
+            "owner": "hubblo-org",
+            "repo": "scaphandre",
+            "stars": 1961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeCarbon",
+          "description": "Track emissions from Compute and recommend ways to reduce their impact on the environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:19:34Z",
+            "owner": "mlco2",
+            "repo": "codecarbon",
+            "stars": 1897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PowerJoular",
+          "description": "Monitor power consumption of multiple platforms and processes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-02-13T11:19:45Z",
+            "owner": "joular",
+            "repo": "powerjoular",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ALUMET",
+          "description": "A modular and efficient software measurement tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T15:47:31Z",
+            "owner": "alumet-dev",
+            "repo": "alumet",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Powerletrics",
+          "description": "PowerLetrics is a framework designed to monitor and analyze power consumption metrics at the process level on Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-10T12:42:10Z",
+            "owner": "green-kernel",
+            "repo": "powerletrics",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cardamon",
+          "description": "A tool for measuring the power consumption and carbon footprint of your software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-01T23:00:05Z",
+            "owner": "Root-Branch",
+            "repo": "cardamon-core",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boagent",
+          "description": "Local API and monitoring agent focussed on environmental impacts of the host.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T15:10:38Z",
+            "owner": "Boavizta",
+            "repo": "boagent",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Monitoring Tools"
+    },
+    {
+      "description": "Tools to optimize energy consumption or environmental impacts.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Zeus",
+          "description": "A framework for deep learning energy measurement and optimization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:20:16Z",
+            "owner": "ml-energy",
+            "repo": "zeus",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GEOPM",
+          "description": "A framework to enable efficient power management and performance optimizations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-07T00:50:27Z",
+            "owner": "geopm",
+            "repo": "geopm",
+            "stars": 112
+          }
+        }
+      ],
+      "title": "Optimization Tools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:13:28.093Z",
+    "original_repository": "samuelrince/awesome-green-ai",
+    "original_repository_sha": "b542bb0d2306aa62ff33e1243cc32dba1c3a1d23",
+    "enhanced_repository": "enhansome/enhansome-green-ai",
+    "enhanced_repository_description": null,
+    "title": "Awesome Green AI 🤖🌱 with stars"
+  }
+}
