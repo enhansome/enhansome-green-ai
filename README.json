@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T07:23:27Z",
+            "last_commit": "2026-08-16T11:59:49Z",
             "owner": "mlco2",
             "repo": "codecarbon",
             "stars": 1897
@@ -123,7 +123,7 @@
             "last_commit": "2026-07-19T18:33:40Z",
             "owner": "hubblo-org",
             "repo": "scaphandre",
-            "stars": 1962
+            "stars": 1961
           }
         },
         {
@@ -134,7 +134,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T07:23:27Z",
+            "last_commit": "2026-08-16T11:59:49Z",
             "owner": "mlco2",
             "repo": "codecarbon",
             "stars": 1897
@@ -249,7 +249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:59:17.047Z",
+    "last_updated": "2026-08-16T12:00:05.286Z",
     "original_repository": "samuelrince/awesome-green-ai",
     "original_repository_sha": "b542bb0d2306aa62ff33e1243cc32dba1c3a1d23",
     "enhanced_repository": "enhansome/enhansome-green-ai",
