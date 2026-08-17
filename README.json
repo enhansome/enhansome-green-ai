@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T11:59:49Z",
+            "last_commit": "2026-08-17T07:55:23Z",
             "owner": "mlco2",
             "repo": "codecarbon",
             "stars": 1897
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-16T19:59:53Z",
+            "last_commit": "2026-08-17T06:43:44Z",
             "owner": "saintslab",
             "repo": "carbontracker",
             "stars": 480
@@ -123,7 +123,7 @@
             "last_commit": "2026-07-19T18:33:40Z",
             "owner": "hubblo-org",
             "repo": "scaphandre",
-            "stars": 1961
+            "stars": 1962
           }
         },
         {
@@ -134,7 +134,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T11:59:49Z",
+            "last_commit": "2026-08-17T07:55:23Z",
             "owner": "mlco2",
             "repo": "codecarbon",
             "stars": 1897
@@ -162,7 +162,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T12:16:00Z",
+            "last_commit": "2026-08-17T08:31:44Z",
             "owner": "alumet-dev",
             "repo": "alumet",
             "stars": 79
@@ -249,7 +249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T12:00:05.286Z",
+    "last_updated": "2026-08-17T12:02:21.958Z",
     "original_repository": "samuelrince/awesome-green-ai",
     "original_repository_sha": "b542bb0d2306aa62ff33e1243cc32dba1c3a1d23",
     "enhanced_repository": "enhansome/enhansome-green-ai",
