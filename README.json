@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 263364731,
                 "language": "Python",
-                "last_commit": "2026-08-19T12:16:17Z",
+                "last_commit": "2026-08-20T06:21:50Z",
                 "owner": "mlco2",
                 "repo": "codecarbon",
                 "stars": 1898
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 524510459,
                 "language": "Python",
-                "last_commit": "2026-08-13T04:43:54Z",
+                "last_commit": "2026-08-20T03:31:50Z",
                 "owner": "ml-energy",
                 "repo": "zeus",
                 "stars": 370
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 468889604,
                 "language": "Python",
-                "last_commit": "2026-07-27T09:19:26Z",
+                "last_commit": "2026-08-20T08:47:31Z",
                 "owner": "fvaleye",
                 "repo": "tracarbon",
                 "stars": 110
@@ -201,7 +201,7 @@
                 "archived": false,
                 "id": 263364731,
                 "language": "Python",
-                "last_commit": "2026-08-19T12:16:17Z",
+                "last_commit": "2026-08-20T06:21:50Z",
                 "owner": "mlco2",
                 "repo": "codecarbon",
                 "stars": 1898
@@ -231,7 +231,7 @@
                 "archived": false,
                 "id": 782430805,
                 "language": "Rust",
-                "last_commit": "2026-08-19T11:53:03Z",
+                "last_commit": "2026-08-19T12:59:27Z",
                 "owner": "alumet-dev",
                 "repo": "alumet",
                 "stars": 80
@@ -328,7 +328,7 @@
                 "archived": false,
                 "id": 524510459,
                 "language": "Python",
-                "last_commit": "2026-08-13T04:43:54Z",
+                "last_commit": "2026-08-20T03:31:50Z",
                 "owner": "ml-energy",
                 "repo": "zeus",
                 "stars": 370
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:31:05.043Z",
+    "last_updated": "2026-08-20T12:15:33.061Z",
     "original_repository": "samuelrince/awesome-green-ai",
     "original_repository_id": 571745925,
     "original_repository_sha": "b542bb0d2306aa62ff33e1243cc32dba1c3a1d23",
