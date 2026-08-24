@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 257581525,
                 "language": "Python",
-                "last_commit": "2026-08-17T06:43:44Z",
+                "last_commit": "2026-08-24T09:53:48Z",
                 "owner": "saintslab",
                 "repo": "carbontracker",
                 "stars": 481
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T12:00:44.169Z",
+    "last_updated": "2026-08-24T12:15:52.677Z",
     "original_repository": "samuelrince/awesome-green-ai",
     "original_repository_id": 571745925,
     "original_repository_sha": "b542bb0d2306aa62ff33e1243cc32dba1c3a1d23",
