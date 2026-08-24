@@ -109,66 +109,6 @@
                 "repo": "AIPowerMeter",
                 "stars": 23
               }
-            },
-            {
-              "node_type": "item",
-              "title": "experiment-impact-tracker",
-              "description": "A simple drop-in method to track energy usage, carbon emissions, and compute utilization of your system.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "id": 219920822,
-                "language": "Python",
-                "last_commit": "2024-01-30T04:19:25Z",
-                "owner": "Breakend",
-                "repo": "experiment-impact-tracker",
-                "stars": 293
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "PyJoules",
-              "description": "A Python library to capture the energy consumption of code snippets.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 222687730,
-                "language": "Python",
-                "last_commit": "2025-12-29T14:56:08Z",
-                "owner": "powerapi-ng",
-                "repo": "pyJoules",
-                "stars": 94
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "GATorch",
-              "description": "An Energy-Aware PyTorch Extension.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 621752062,
-                "language": "Python",
-                "last_commit": "2023-04-01T16:41:05Z",
-                "owner": "GreenAITorch",
-                "repo": "GATorch",
-                "stars": 9
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "GPU Meter",
-              "description": "Power Consumption Meter for NVIDIA GPUs.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 383826708,
-                "language": "Python",
-                "last_commit": "2021-09-21T11:29:29Z",
-                "owner": "autoai-incubator",
-                "repo": "powermeter",
-                "stars": 1
-              }
             }
           ],
           "description": "Tools to measure and compute environmental impacts of AI.",
@@ -231,7 +171,7 @@
                 "archived": false,
                 "id": 782430805,
                 "language": "Rust",
-                "last_commit": "2026-08-21T16:08:01Z",
+                "last_commit": "2026-08-24T14:10:43Z",
                 "owner": "alumet-dev",
                 "repo": "alumet",
                 "stars": 80
@@ -281,36 +221,6 @@
                 "repo": "boagent",
                 "stars": 32
               }
-            },
-            {
-              "node_type": "item",
-              "title": "vJoule",
-              "description": "A tool to estimate the energy consumption of your processes.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 588505536,
-                "language": "C++",
-                "last_commit": "2024-12-17T14:39:14Z",
-                "owner": "davidson-consulting",
-                "repo": "vjoule",
-                "stars": 11
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "jupyter-power-usage",
-              "description": "Jupyter extension to display CPU and GPU power usage and carbon emissions.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 699050353,
-                "language": "TypeScript",
-                "last_commit": "2025-05-14T12:28:19Z",
-                "owner": "mahendrapaipuri",
-                "repo": "jupyter-power-usage",
-                "stars": 10
-              }
             }
           ],
           "description": "Tools to monitor power consumption and environmental impacts.",
@@ -353,13 +263,173 @@
           "description": "Tools to optimize energy consumption or environmental impacts.",
           "node_type": "group",
           "title": "Optimization Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MLCarbon",
+              "description": "End-to-end carbon footprint modeling tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 671180125,
+                "language": "Python",
+                "last_commit": "2025-05-22T19:09:03Z",
+                "owner": "SotaroKaneda",
+                "repo": "MLCarbon",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Boaviztapi",
+              "description": "Multi-criteria impacts of compute resources taking into account manufacturing and usage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 426302385,
+                "language": "Python",
+                "last_commit": "2026-08-23T08:37:05Z",
+                "owner": "Boavizta",
+                "repo": "boaviztapi",
+                "stars": 99
+              }
+            }
+          ],
+          "description": "Tools to estimate environmental impacts of algorithms, models and compute resources.\nGeneric tools:",
+          "node_type": "group",
+          "title": "Calculation Tools"
         }
       ],
       "title": "🛠 Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "experiment-impact-tracker",
+          "description": "A simple drop-in method to track energy usage, carbon emissions, and compute utilization of your system.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 219920822,
+            "language": "Python",
+            "last_commit": "2024-01-30T04:19:25Z",
+            "owner": "Breakend",
+            "repo": "experiment-impact-tracker",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyJoules",
+          "description": "A Python library to capture the energy consumption of code snippets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 222687730,
+            "language": "Python",
+            "last_commit": "2025-12-29T14:56:08Z",
+            "owner": "powerapi-ng",
+            "repo": "pyJoules",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GATorch",
+          "description": "An Energy-Aware PyTorch Extension.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 621752062,
+            "language": "Python",
+            "last_commit": "2023-04-01T16:41:05Z",
+            "owner": "GreenAITorch",
+            "repo": "GATorch",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPU Meter",
+          "description": "Power Consumption Meter for NVIDIA GPUs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 383826708,
+            "language": "Python",
+            "last_commit": "2021-09-21T11:29:29Z",
+            "owner": "autoai-incubator",
+            "repo": "powermeter",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "☠️ No longer maintained:"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vJoule",
+          "description": "A tool to estimate the energy consumption of your processes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 588505536,
+            "language": "C++",
+            "last_commit": "2024-12-17T14:39:14Z",
+            "owner": "davidson-consulting",
+            "repo": "vjoule",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jupyter-power-usage",
+          "description": "Jupyter extension to display CPU and GPU power usage and carbon emissions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 699050353,
+            "language": "TypeScript",
+            "last_commit": "2025-05-14T12:28:19Z",
+            "owner": "mahendrapaipuri",
+            "repo": "jupyter-power-usage",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "☠️ No longer maintained:"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GenAI Carbon Footprint",
+          "description": "A tool to estimate energy use (kWh) and carbon emissions (gCO2eq) from LLM usage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 759400728,
+            "language": "Go",
+            "last_commit": "2024-02-29T18:35:32Z",
+            "owner": "greenscale-ai",
+            "repo": "genai-carbon-footprint",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "☠️ No longer maintained:"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T12:15:52.677Z",
+    "last_updated": "2026-08-24T14:40:28.277Z",
     "original_repository": "samuelrince/awesome-green-ai",
     "original_repository_id": 571745925,
     "original_repository_sha": "b542bb0d2306aa62ff33e1243cc32dba1c3a1d23",
