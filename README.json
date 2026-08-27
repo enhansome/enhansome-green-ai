@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 263364731,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:33:35Z",
+                "last_commit": "2026-08-27T15:54:36Z",
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1905
+                "stars": 1906
               }
             },
             {
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 257581525,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:21:01Z",
+                "last_commit": "2026-08-27T14:24:19Z",
                 "owner": "saintslab",
                 "repo": "carbontracker",
                 "stars": 481
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-09T06:40:24Z",
                 "owner": "mlco2",
                 "repo": "ecologits",
-                "stars": 317
+                "stars": 318
               }
             },
             {
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 468889604,
                 "language": "Python",
-                "last_commit": "2026-08-26T18:22:32Z",
+                "last_commit": "2026-08-27T18:17:01Z",
                 "owner": "fvaleye",
                 "repo": "tracarbon",
                 "stars": 110
@@ -141,10 +141,10 @@
                 "archived": false,
                 "id": 263364731,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:33:35Z",
+                "last_commit": "2026-08-27T15:54:36Z",
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1905
+                "stars": 1906
               }
             },
             {
@@ -171,7 +171,7 @@
                 "archived": false,
                 "id": 782430805,
                 "language": "Rust",
-                "last_commit": "2026-08-24T14:10:43Z",
+                "last_commit": "2026-08-27T14:34:22Z",
                 "owner": "alumet-dev",
                 "repo": "alumet",
                 "stars": 80
@@ -429,7 +429,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:42:00.712Z",
+    "last_updated": "2026-08-27T21:19:20.708Z",
     "original_repository_info": {
       "archived": false,
       "id": 571745925,
