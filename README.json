@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 263364731,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:54:36Z",
+                "last_commit": "2026-08-28T20:47:18Z",
                 "owner": "mlco2",
                 "repo": "codecarbon",
                 "stars": 1906
-              }
+              },
+              "first_seen": "2026-08-28T21:32:05.704Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "saintslab",
                 "repo": "carbontracker",
                 "stars": 481
-              }
+              },
+              "first_seen": "2026-08-28T21:32:05.704Z"
             },
             {
               "node_type": "item",
@@ -44,11 +46,12 @@
                 "archived": false,
                 "id": 524510459,
                 "language": "Python",
-                "last_commit": "2026-08-20T20:08:11Z",
+                "last_commit": "2026-08-28T03:17:29Z",
                 "owner": "ml-energy",
                 "repo": "zeus",
-                "stars": 371
-              }
+                "stars": 372
+              },
+              "first_seen": "2026-08-28T21:32:05.704Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2026-08-09T06:40:24Z",
                 "owner": "mlco2",
                 "repo": "ecologits",
-                "stars": 318
-              }
+                "stars": 319
+              },
+              "first_seen": "2026-08-28T21:32:05.704Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "sb-ai-lab",
                 "repo": "Eco2AI",
                 "stars": 277
-              }
+              },
+              "first_seen": "2026-08-28T21:32:05.704Z"
             },
             {
               "node_type": "item",
@@ -89,11 +94,12 @@
                 "archived": false,
                 "id": 468889604,
                 "language": "Python",
-                "last_commit": "2026-08-27T18:17:01Z",
+                "last_commit": "2026-08-28T15:33:18Z",
                 "owner": "fvaleye",
                 "repo": "tracarbon",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T21:32:05.704Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "GreenAI-Uppa",
                 "repo": "AIPowerMeter",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T21:32:05.704Z"
             }
           ],
           "description": "Tools to measure and compute environmental impacts of AI.",
@@ -129,8 +136,9 @@
                 "last_commit": "2026-07-19T18:33:40Z",
                 "owner": "hubblo-org",
                 "repo": "scaphandre",
-                "stars": 1963
-              }
+                "stars": 1964
+              },
+              "first_seen": "2026-08-28T21:32:05.704Z"
             },
             {
               "node_type": "item",
@@ -141,11 +149,12 @@
                 "archived": false,
                 "id": 263364731,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:54:36Z",
+                "last_commit": "2026-08-28T20:47:18Z",
                 "owner": "mlco2",
                 "repo": "codecarbon",
                 "stars": 1906
-              }
+              },
+              "first_seen": "2026-08-28T21:32:05.704Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "joular",
                 "repo": "powerjoular",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-28T21:32:05.704Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "alumet-dev",
                 "repo": "alumet",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T21:32:05.704Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "green-kernel",
                 "repo": "powerletrics",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T21:32:05.704Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "Root-Branch",
                 "repo": "cardamon-core",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T21:32:05.704Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "Boavizta",
                 "repo": "boagent",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T21:32:05.704Z"
             }
           ],
           "description": "Tools to monitor power consumption and environmental impacts.",
@@ -238,11 +252,12 @@
                 "archived": false,
                 "id": 524510459,
                 "language": "Python",
-                "last_commit": "2026-08-20T20:08:11Z",
+                "last_commit": "2026-08-28T03:17:29Z",
                 "owner": "ml-energy",
                 "repo": "zeus",
-                "stars": 371
-              }
+                "stars": 372
+              },
+              "first_seen": "2026-08-28T21:32:05.704Z"
             },
             {
               "node_type": "item",
@@ -253,11 +268,12 @@
                 "archived": false,
                 "id": 44407454,
                 "language": "C++",
-                "last_commit": "2026-08-07T00:50:27Z",
+                "last_commit": "2026-08-28T17:42:07Z",
                 "owner": "geopm",
                 "repo": "geopm",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T21:32:05.704Z"
             }
           ],
           "description": "Tools to optimize energy consumption or environmental impacts.",
@@ -279,7 +295,8 @@
                 "owner": "SotaroKaneda",
                 "repo": "MLCarbon",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T21:32:05.704Z"
             },
             {
               "node_type": "item",
@@ -294,7 +311,8 @@
                 "owner": "Boavizta",
                 "repo": "boaviztapi",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T21:32:05.704Z"
             }
           ],
           "description": "Tools to estimate environmental impacts of algorithms, models and compute resources.\nGeneric tools:",
@@ -320,7 +338,8 @@
             "owner": "Breakend",
             "repo": "experiment-impact-tracker",
             "stars": 293
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.704Z"
         },
         {
           "node_type": "item",
@@ -335,7 +354,8 @@
             "owner": "powerapi-ng",
             "repo": "pyJoules",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.704Z"
         },
         {
           "node_type": "item",
@@ -350,7 +370,8 @@
             "owner": "GreenAITorch",
             "repo": "GATorch",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.704Z"
         },
         {
           "node_type": "item",
@@ -365,7 +386,8 @@
             "owner": "autoai-incubator",
             "repo": "powermeter",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.704Z"
         }
       ],
       "title": "☠️ No longer maintained:"
@@ -386,7 +408,8 @@
             "owner": "davidson-consulting",
             "repo": "vjoule",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.704Z"
         },
         {
           "node_type": "item",
@@ -401,7 +424,8 @@
             "owner": "mahendrapaipuri",
             "repo": "jupyter-power-usage",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.704Z"
         }
       ],
       "title": "☠️ No longer maintained:"
@@ -422,14 +446,15 @@
             "owner": "greenscale-ai",
             "repo": "genai-carbon-footprint",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.704Z"
         }
       ],
       "title": "☠️ No longer maintained:"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:19:20.708Z",
+    "last_updated": "2026-08-28T21:32:05.704Z",
     "original_repository_info": {
       "archived": false,
       "id": 571745925,
