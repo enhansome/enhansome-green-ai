@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Track emissions from Compute and recommend ways to reduce their impact on the environment.",
+                "homepage": "https://docs.codecarbon.io/",
                 "id": 263364731,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T20:47:18Z",
+                "open_issues": 187,
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1906
+                "stars": 1906,
+                "topics": [
+                  "ai-ethics",
+                  "carbon-emissions",
+                  "carbon-footprint",
+                  "co2-emissions",
+                  "energy-consumption",
+                  "energy-efficiency",
+                  "fairness",
+                  "sustainability"
+                ]
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
             },
@@ -28,12 +42,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Track and predict the energy consumption and carbon footprint of training deep learning models.",
+                "homepage": null,
                 "id": 257581525,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T14:24:19Z",
+                "open_issues": 12,
                 "owner": "saintslab",
                 "repo": "carbontracker",
-                "stars": 481
+                "stars": 481,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
             },
@@ -44,12 +63,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Measure and optimize the energy consumption of your AI applications!",
+                "homepage": "https://ml.energy/zeus",
                 "id": 524510459,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T03:17:29Z",
+                "open_issues": 12,
                 "owner": "ml-energy",
                 "repo": "zeus",
-                "stars": 372
+                "stars": 372,
+                "topics": [
+                  "deep-learning",
+                  "energy",
+                  "mlsys"
+                ]
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
             },
@@ -60,12 +88,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌱 EcoLogits tracks the energy consumption and environmental footprint of using generative AI models through APIs.",
+                "homepage": "https://ecologits.ai/",
                 "id": 751927947,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-09T06:40:24Z",
+                "open_issues": 14,
                 "owner": "mlco2",
                 "repo": "ecologits",
-                "stars": 319
+                "stars": 319,
+                "topics": [
+                  "genai",
+                  "generative-ai",
+                  "green-ai",
+                  "green-software",
+                  "llm",
+                  "llm-inference",
+                  "python",
+                  "sustainability",
+                  "sustainable-ai"
+                ]
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
             },
@@ -76,12 +119,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "eco2AI is a python library which accumulates statistics about power consumption and CO2 emission during running code. ",
+                "homepage": null,
                 "id": 498221891,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-10T22:38:50Z",
+                "open_issues": 4,
                 "owner": "sb-ai-lab",
                 "repo": "Eco2AI",
-                "stars": 277
+                "stars": 277,
+                "topics": [
+                  "ai",
+                  "carbon-emissions",
+                  "carbon-footprint",
+                  "co2-emissions",
+                  "co2-monitoring",
+                  "deep-learning",
+                  "emission-tracker",
+                  "energy-consumption",
+                  "environment",
+                  "esg",
+                  "ghg",
+                  "machine-learning",
+                  "power-consumption-measurement",
+                  "python",
+                  "sustainability"
+                ]
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
             },
@@ -92,12 +156,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌍 Tracarbon tracks your device's energy consumption and calculates your carbon emissions using your location.",
+                "homepage": "https://fvaleye.github.io/tracarbon/documentation/",
                 "id": 468889604,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T15:33:18Z",
+                "open_issues": 6,
                 "owner": "fvaleye",
                 "repo": "tracarbon",
-                "stars": 110
+                "stars": 110,
+                "topics": [
+                  "carbon-footprint",
+                  "electricity-consumption",
+                  "energy",
+                  "energy-consumption",
+                  "energy-efficiency",
+                  "sustainability"
+                ]
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
             },
@@ -108,12 +184,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 377214225,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2026-03-06T18:50:20Z",
+                "open_issues": 3,
                 "owner": "GreenAI-Uppa",
                 "repo": "AIPowerMeter",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
             }
@@ -131,12 +212,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡ Energy consumption metrology agent. Let \"scaph\" dive and bring back the metrics that will help you make your systems and applications more sustainable !",
+                "homepage": null,
                 "id": 304646001,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-19T18:33:40Z",
+                "open_issues": 93,
                 "owner": "hubblo-org",
                 "repo": "scaphandre",
-                "stars": 1964
+                "stars": 1964,
+                "topics": [
+                  "carbon-footprint",
+                  "electricity",
+                  "electricity-consumption",
+                  "electricity-meter",
+                  "energy",
+                  "energy-consumption",
+                  "energy-efficiency",
+                  "energy-monitor",
+                  "greenit",
+                  "hacktoberfest",
+                  "measure",
+                  "prometheus",
+                  "qemu",
+                  "rust",
+                  "rust-lang",
+                  "sustainability",
+                  "virtual-machine",
+                  "virtual-machines",
+                  "wattmeter",
+                  "watts"
+                ]
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
             },
@@ -147,12 +254,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Track emissions from Compute and recommend ways to reduce their impact on the environment.",
+                "homepage": "https://docs.codecarbon.io/",
                 "id": 263364731,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T20:47:18Z",
+                "open_issues": 187,
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1906
+                "stars": 1906,
+                "topics": [
+                  "ai-ethics",
+                  "carbon-emissions",
+                  "carbon-footprint",
+                  "co2-emissions",
+                  "energy-consumption",
+                  "energy-efficiency",
+                  "fairness",
+                  "sustainability"
+                ]
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
             },
@@ -163,12 +284,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PowerJoular allows monitoring power consumption of multiple platforms and processes",
+                "homepage": "https://www.noureddine.org/research/joular/powerjoular",
                 "id": 350253423,
                 "language": "Ada",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-13T11:19:45Z",
+                "open_issues": 10,
                 "owner": "joular",
                 "repo": "powerjoular",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "ada",
+                  "energy",
+                  "green",
+                  "joular",
+                  "power",
+                  "powerjoular",
+                  "software"
+                ]
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
             },
@@ -179,12 +313,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Next-gen monitoring with high-frequency energy measurement.",
+                "homepage": "https://alumet.dev",
                 "id": 782430805,
                 "language": "Rust",
+                "license": "EUPL-1.2",
                 "last_commit": "2026-08-27T14:34:22Z",
+                "open_issues": 55,
                 "owner": "alumet-dev",
                 "repo": "alumet",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "cloud-computing",
+                  "edge-computing",
+                  "energy-consumption",
+                  "energy-efficiency",
+                  "hpc-systems",
+                  "kubernetes",
+                  "monitoring",
+                  "profiling",
+                  "research-paper",
+                  "rust",
+                  "sustainability",
+                  "wattmeter"
+                ]
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
             },
@@ -195,12 +347,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powermetrics for Linux",
+                "homepage": null,
                 "id": 808688490,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-12-10T12:42:10Z",
+                "open_issues": 11,
                 "owner": "green-kernel",
                 "repo": "powerletrics",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
             },
@@ -211,12 +368,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌱 A tool for measuring the power consumption and carbon footprint of your software.",
+                "homepage": "https://cardamon.io",
                 "id": 733711505,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-01T23:00:05Z",
+                "open_issues": 31,
                 "owner": "Root-Branch",
                 "repo": "cardamon-core",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "green-software",
+                  "greentech",
+                  "power-profile"
+                ]
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
             },
@@ -227,12 +393,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local API and monitoring agent focused on environmental impacts of the host.",
+                "homepage": null,
                 "id": 462210857,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-24T15:10:38Z",
+                "open_issues": 5,
                 "owner": "Boavizta",
                 "repo": "boagent",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
             }
@@ -250,12 +421,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Measure and optimize the energy consumption of your AI applications!",
+                "homepage": "https://ml.energy/zeus",
                 "id": 524510459,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T03:17:29Z",
+                "open_issues": 12,
                 "owner": "ml-energy",
                 "repo": "zeus",
-                "stars": 372
+                "stars": 372,
+                "topics": [
+                  "deep-learning",
+                  "energy",
+                  "mlsys"
+                ]
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
             },
@@ -266,12 +446,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Global Extensible Open Power Manager",
+                "homepage": "https://geopm.github.io",
                 "id": 44407454,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T17:42:07Z",
+                "open_issues": 723,
                 "owner": "geopm",
                 "repo": "geopm",
-                "stars": 112
+                "stars": 112,
+                "topics": [
+                  "control-systems",
+                  "hardware",
+                  "high-performance-computing",
+                  "hpc",
+                  "power-management",
+                  "service",
+                  "sustainability",
+                  "telemetry"
+                ]
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
             }
@@ -289,12 +483,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " End-to-end carbon footprint mod- eling tool",
+                "homepage": null,
                 "id": 671180125,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-22T19:09:03Z",
+                "open_issues": 1,
                 "owner": "SotaroKaneda",
                 "repo": "MLCarbon",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
             },
@@ -305,12 +504,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🛠 Giving access to BOAVIZTA reference data and methodologies trough a RESTful API",
+                "homepage": null,
                 "id": 426302385,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-23T08:37:05Z",
+                "open_issues": 35,
                 "owner": "Boavizta",
                 "repo": "boaviztapi",
-                "stars": 99
+                "stars": 99,
+                "topics": [
+                  "carbon-footprint",
+                  "greensoftware",
+                  "openapi",
+                  "sustainability"
+                ]
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
             }
@@ -332,12 +541,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 219920822,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-30T04:19:25Z",
+            "open_issues": 35,
             "owner": "Breakend",
             "repo": "experiment-impact-tracker",
-            "stars": 293
+            "stars": 293,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:05.704Z"
         },
@@ -348,12 +562,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python library to capture the energy consumption of code snippets",
+            "homepage": null,
             "id": 222687730,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-29T14:56:08Z",
+            "open_issues": 38,
             "owner": "powerapi-ng",
             "repo": "pyJoules",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "energy",
+              "energy-consumption",
+              "intel-rapl",
+              "power",
+              "python",
+              "rapl"
+            ]
           },
           "first_seen": "2026-08-28T21:32:05.704Z"
         },
@@ -364,12 +590,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GATorch is a tool seamlessly integrated with PyTorch that enables ML developers to generate an energy consumption report. By attaching your model, the tool automatically tracks the energy consumption of your model's training and generates graphs and plots to gain in-depth insights into the energy consumption of your model. ",
+            "homepage": null,
             "id": 621752062,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-04-01T16:41:05Z",
+            "open_issues": 3,
             "owner": "GreenAITorch",
             "repo": "GATorch",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "energy-consumption",
+              "green-ai",
+              "pytorch",
+              "sustainability"
+            ]
           },
           "first_seen": "2026-08-28T21:32:05.704Z"
         },
@@ -380,12 +616,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 383826708,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-09-21T11:29:29Z",
+            "open_issues": 0,
             "owner": "autoai-incubator",
             "repo": "powermeter",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:05.704Z"
         }
@@ -402,12 +643,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to estimate the energy consumption of your processes",
+            "homepage": "https://davidson-consulting.github.io/vjoule/",
             "id": 588505536,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2024-12-17T14:39:14Z",
+            "open_issues": 0,
             "owner": "davidson-consulting",
             "repo": "vjoule",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:05.704Z"
         },
@@ -418,12 +664,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jupyter extension to display CPU and GPU power usage and equivalent CO2 emissions",
+            "homepage": null,
             "id": 699050353,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-14T12:28:19Z",
+            "open_issues": 2,
             "owner": "mahendrapaipuri",
             "repo": "jupyter-power-usage",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "emissions-co2",
+              "energy-consumption",
+              "green-computing",
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "rapl"
+            ]
           },
           "first_seen": "2026-08-28T21:32:05.704Z"
         }
@@ -440,12 +699,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GenAI Carbon Footprint is a tool to estimate energy use (kWh) and carbon emissions (gCO2eq) from LLM usage",
+            "homepage": null,
             "id": 759400728,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-02-29T18:35:32Z",
+            "open_issues": 0,
             "owner": "greenscale-ai",
             "repo": "genai-carbon-footprint",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:05.704Z"
         }
@@ -454,15 +718,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:32:05.704Z",
+    "last_updated": "2026-08-29T05:03:48.529Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.",
+      "homepage": null,
       "id": 571745925,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-05-05T16:44:44Z",
+      "open_issues": 2,
       "owner": "samuelrince",
       "repo": "awesome-green-ai",
-      "stars": 114
+      "stars": 114,
+      "topics": [
+        "ai",
+        "awesome-list",
+        "climate",
+        "deep-learning",
+        "green-ai",
+        "green-software",
+        "machine-learning",
+        "sustainability",
+        "sustainable-ai"
+      ]
     },
     "original_repository_sha": "b542bb0d2306aa62ff33e1243cc32dba1c3a1d23",
     "enhanced_repository": "enhansome/enhansome-green-ai",
