@@ -17,11 +17,11 @@
                 "id": 263364731,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-30T19:49:40Z",
-                "open_issues": 187,
+                "last_commit": "2026-09-02T06:03:13Z",
+                "open_issues": 188,
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1907,
+                "stars": 1908,
                 "topics": [
                   "ai-ethics",
                   "carbon-emissions",
@@ -259,11 +259,11 @@
                 "id": 263364731,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-30T19:49:40Z",
-                "open_issues": 187,
+                "last_commit": "2026-09-02T06:03:13Z",
+                "open_issues": 188,
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1907,
+                "stars": 1908,
                 "topics": [
                   "ai-ethics",
                   "carbon-emissions",
@@ -452,7 +452,7 @@
                 "language": "C++",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-01T03:36:34Z",
-                "open_issues": 723,
+                "open_issues": 724,
                 "owner": "geopm",
                 "repo": "geopm",
                 "stars": 112,
@@ -718,7 +718,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T15:34:09.497Z",
+    "last_updated": "2026-09-02T15:21:06.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.",

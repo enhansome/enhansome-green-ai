@@ -23,7 +23,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 
 *Tools to measure and compute environmental impacts of AI.*
 
-* [CodeCarbon](https://github.com/mlco2/codecarbon) ⭐ 1,907 | 🐛 187 | 🌐 Python | 📅 2026-08-30 – Track emissions from Compute and recommend ways to reduce their impact on the environment.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat\&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat\&logo=cli)
+* [CodeCarbon](https://github.com/mlco2/codecarbon) ⭐ 1,908 | 🐛 188 | 🌐 Python | 📅 2026-09-02 – Track emissions from Compute and recommend ways to reduce their impact on the environment.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat\&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat\&logo=cli)
 * [carbontracker](https://github.com/lfwa/carbontracker) ⭐ 481 | 🐛 12 | 🌐 Python | 📅 2026-08-27 – Track and predict the energy consumption and carbon footprint of training deep learning models.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
 * [Zeus](https://github.com/SymbioticLab/Zeus) ⭐ 372 | 🐛 12 | 🌐 Python | 📅 2026-08-31 – A framework for deep learning energy measurement and optimization.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
 * [EcoLogits](https://github.com/genai-impact/ecologits) ⭐ 321 | 🐛 16 | 🌐 Python | 📅 2026-08-09 – Estimates the energy consumption and environmental footprint of LLM inference through APIs.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat\&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
@@ -49,7 +49,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 *Tools to monitor power consumption and environmental impacts.*
 
 * [Scaphandre](https://github.com/hubblo-org/scaphandre) ⭐ 1,967 | 🐛 93 | 🌐 Rust | 📅 2026-07-19 – A metrology agent dedicated to electrical power consumption metrics.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![Docker](https://img.shields.io/badge/Docker-black?style=flat\&logo=docker) ![k8s](https://img.shields.io/badge/k8s-black?style=flat\&logo=kubernetes)
-* [CodeCarbon](https://github.com/mlco2/codecarbon) ⭐ 1,907 | 🐛 187 | 🌐 Python | 📅 2026-08-30 – Track emissions from Compute and recommend ways to reduce their impact on the environment.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat\&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat\&logo=cli)
+* [CodeCarbon](https://github.com/mlco2/codecarbon) ⭐ 1,908 | 🐛 188 | 🌐 Python | 📅 2026-09-02 – Track emissions from Compute and recommend ways to reduce their impact on the environment.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat\&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat\&logo=cli)
 * [PowerJoular](https://github.com/joular/powerjoular) ⭐ 117 | 🐛 7 | 🌐 Ada | 📅 2026-09-01 – Monitor power consumption of multiple platforms and processes.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Raspberry](https://img.shields.io/badge/Raspberry-black?style=flat\&logo=raspberrypi) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat\&logo=cli)
 * [ALUMET](https://github.com/alumet-dev/alumet) ⭐ 80 | 🐛 54 | 🌐 Rust | 📅 2026-09-01 – A modular and efficient software measurement tool.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat\&logo=cli)
 * [Powerletrics](https://github.com/green-kernel/powerletrics) ⭐ 58 | 🐛 11 | 🌐 Python | 📅 2024-12-10 – PowerLetrics is a framework designed to monitor and analyze power consumption metrics at the process level on Linux.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux)
@@ -71,7 +71,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 *Tools to optimize energy consumption or environmental impacts.*
 
 * [Zeus](https://github.com/SymbioticLab/Zeus) ⭐ 372 | 🐛 12 | 🌐 Python | 📅 2026-08-31 – A framework for deep learning energy measurement and optimization.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
-* [GEOPM](https://github.com/geopm/geopm) ⭐ 112 | 🐛 723 | 🌐 C++ | 📅 2026-09-01 – A framework to enable efficient power management and performance optimizations.<br> ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![k8s](https://img.shields.io/badge/k8s-black?style=flat\&logo=kubernetes)
+* [GEOPM](https://github.com/geopm/geopm) ⭐ 112 | 🐛 724 | 🌐 C++ | 📅 2026-09-01 – A framework to enable efficient power management and performance optimizations.<br> ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![k8s](https://img.shields.io/badge/k8s-black?style=flat\&logo=kubernetes)
 
 ### Calculation Tools
 
@@ -217,4 +217,4 @@ Generic tools:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
