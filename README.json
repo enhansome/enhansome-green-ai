@@ -17,7 +17,7 @@
                 "id": 263364731,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T12:57:58Z",
+                "last_commit": "2026-09-03T18:39:48Z",
                 "open_issues": 184,
                 "owner": "mlco2",
                 "repo": "codecarbon",
@@ -51,7 +51,7 @@
                 "open_issues": 12,
                 "owner": "saintslab",
                 "repo": "carbontracker",
-                "stars": 481,
+                "stars": 482,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
@@ -97,7 +97,7 @@
                 "open_issues": 16,
                 "owner": "mlco2",
                 "repo": "ecologits",
-                "stars": 323,
+                "stars": 324,
                 "topics": [
                   "genai",
                   "generative-ai",
@@ -259,7 +259,7 @@
                 "id": 263364731,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T12:57:58Z",
+                "last_commit": "2026-09-03T18:39:48Z",
                 "open_issues": 184,
                 "owner": "mlco2",
                 "repo": "codecarbon",
@@ -289,8 +289,8 @@
                 "id": 350253423,
                 "language": "Ada",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-03T13:55:50Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-03T21:37:19Z",
+                "open_issues": 6,
                 "owner": "joular",
                 "repo": "powerjoular",
                 "stars": 117,
@@ -509,8 +509,8 @@
                 "id": 426302385,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-03T07:49:50Z",
-                "open_issues": 36,
+                "last_commit": "2026-09-04T15:08:41Z",
+                "open_issues": 37,
                 "owner": "Boavizta",
                 "repo": "boaviztapi",
                 "stars": 99,
@@ -718,7 +718,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T15:14:30.880Z",
+    "last_updated": "2026-09-04T15:09:19.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.",
