@@ -17,11 +17,11 @@
                 "id": 263364731,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T18:39:48Z",
+                "last_commit": "2026-09-05T06:35:43Z",
                 "open_issues": 184,
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1910,
+                "stars": 1911,
                 "topics": [
                   "ai-ethics",
                   "carbon-emissions",
@@ -51,7 +51,7 @@
                 "open_issues": 12,
                 "owner": "saintslab",
                 "repo": "carbontracker",
-                "stars": 482,
+                "stars": 483,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
@@ -68,7 +68,7 @@
                 "id": 524510459,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T22:48:04Z",
+                "last_commit": "2026-09-04T17:13:15Z",
                 "open_issues": 12,
                 "owner": "ml-energy",
                 "repo": "zeus",
@@ -97,7 +97,7 @@
                 "open_issues": 16,
                 "owner": "mlco2",
                 "repo": "ecologits",
-                "stars": 324,
+                "stars": 325,
                 "topics": [
                   "genai",
                   "generative-ai",
@@ -128,7 +128,7 @@
                 "open_issues": 4,
                 "owner": "sb-ai-lab",
                 "repo": "Eco2AI",
-                "stars": 278,
+                "stars": 279,
                 "topics": [
                   "ai",
                   "carbon-emissions",
@@ -161,8 +161,8 @@
                 "id": 468889604,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T12:20:27Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-05T10:17:19Z",
+                "open_issues": 4,
                 "owner": "fvaleye",
                 "repo": "tracarbon",
                 "stars": 110,
@@ -221,7 +221,7 @@
                 "open_issues": 93,
                 "owner": "hubblo-org",
                 "repo": "scaphandre",
-                "stars": 1967,
+                "stars": 1968,
                 "topics": [
                   "carbon-footprint",
                   "electricity",
@@ -259,11 +259,11 @@
                 "id": 263364731,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T18:39:48Z",
+                "last_commit": "2026-09-05T06:35:43Z",
                 "open_issues": 184,
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1910,
+                "stars": 1911,
                 "topics": [
                   "ai-ethics",
                   "carbon-emissions",
@@ -284,12 +284,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "PowerJoular allows monitoring power consumption of multiple platforms and processes",
+                "description": "PowerJoular allows monitoring power consumption of multiple platforms and processes, on Windows, Linux and macOS",
                 "homepage": "https://www.noureddine.org/research/joular/powerjoular",
                 "id": 350253423,
                 "language": "Ada",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-03T21:37:19Z",
+                "last_commit": "2026-09-05T08:22:24Z",
                 "open_issues": 6,
                 "owner": "joular",
                 "repo": "powerjoular",
@@ -299,9 +299,12 @@
                   "energy",
                   "green",
                   "joular",
+                  "linux",
+                  "macos",
                   "power",
                   "powerjoular",
-                  "software"
+                  "software",
+                  "windows"
                 ]
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
@@ -426,7 +429,7 @@
                 "id": 524510459,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T22:48:04Z",
+                "last_commit": "2026-09-04T17:13:15Z",
                 "open_issues": 12,
                 "owner": "ml-energy",
                 "repo": "zeus",
@@ -509,8 +512,8 @@
                 "id": 426302385,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-04T15:08:41Z",
-                "open_issues": 37,
+                "last_commit": "2026-09-05T07:46:39Z",
+                "open_issues": 32,
                 "owner": "Boavizta",
                 "repo": "boaviztapi",
                 "stars": 99,
@@ -718,7 +721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T15:09:19.169Z",
+    "last_updated": "2026-09-05T14:00:48.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.",
