@@ -161,8 +161,8 @@
                 "id": 468889604,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T10:17:19Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-05T21:56:36Z",
+                "open_issues": 3,
                 "owner": "fvaleye",
                 "repo": "tracarbon",
                 "stars": 110,
@@ -721,7 +721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T14:00:48.597Z",
+    "last_updated": "2026-09-06T14:25:49.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.",
