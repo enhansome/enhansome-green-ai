@@ -17,8 +17,8 @@
                 "id": 263364731,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-07T12:32:44Z",
-                "open_issues": 186,
+                "last_commit": "2026-09-09T13:08:54Z",
+                "open_issues": 184,
                 "owner": "mlco2",
                 "repo": "codecarbon",
                 "stars": 1912,
@@ -51,7 +51,7 @@
                 "open_issues": 12,
                 "owner": "saintslab",
                 "repo": "carbontracker",
-                "stars": 482,
+                "stars": 481,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
@@ -259,8 +259,8 @@
                 "id": 263364731,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-07T12:32:44Z",
-                "open_issues": 186,
+                "last_commit": "2026-09-09T13:08:54Z",
+                "open_issues": 184,
                 "owner": "mlco2",
                 "repo": "codecarbon",
                 "stars": 1912,
@@ -321,8 +321,8 @@
                 "id": 782430805,
                 "language": "Rust",
                 "license": "EUPL-1.2",
-                "last_commit": "2026-09-08T12:44:21Z",
-                "open_issues": 47,
+                "last_commit": "2026-09-09T13:48:07Z",
+                "open_issues": 46,
                 "owner": "alumet-dev",
                 "repo": "alumet",
                 "stars": 80,
@@ -380,7 +380,7 @@
                 "open_issues": 31,
                 "owner": "Root-Branch",
                 "repo": "cardamon-core",
-                "stars": 40,
+                "stars": 42,
                 "topics": [
                   "green-software",
                   "greentech",
@@ -516,7 +516,7 @@
                 "open_issues": 32,
                 "owner": "Boavizta",
                 "repo": "boaviztapi",
-                "stars": 99,
+                "stars": 100,
                 "topics": [
                   "carbon-footprint",
                   "greensoftware",
@@ -721,7 +721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T15:22:19.913Z",
+    "last_updated": "2026-09-09T15:20:10.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.",
