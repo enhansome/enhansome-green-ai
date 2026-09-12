@@ -21,7 +21,7 @@
                 "open_issues": 184,
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1913,
+                "stars": 1914,
                 "topics": [
                   "ai-ethics",
                   "carbon-emissions",
@@ -218,7 +218,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-19T18:33:40Z",
-                "open_issues": 95,
+                "open_issues": 97,
                 "owner": "hubblo-org",
                 "repo": "scaphandre",
                 "stars": 1970,
@@ -263,7 +263,7 @@
                 "open_issues": 184,
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1913,
+                "stars": 1914,
                 "topics": [
                   "ai-ethics",
                   "carbon-emissions",
@@ -454,8 +454,8 @@
                 "id": 44407454,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-10T00:35:22Z",
-                "open_issues": 724,
+                "last_commit": "2026-09-11T20:58:03Z",
+                "open_issues": 725,
                 "owner": "geopm",
                 "repo": "geopm",
                 "stars": 112,
@@ -721,7 +721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T15:15:10.379Z",
+    "last_updated": "2026-09-12T14:24:27.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.",
