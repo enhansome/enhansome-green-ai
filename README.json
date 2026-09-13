@@ -221,7 +221,7 @@
                 "open_issues": 97,
                 "owner": "hubblo-org",
                 "repo": "scaphandre",
-                "stars": 1970,
+                "stars": 1971,
                 "topics": [
                   "carbon-footprint",
                   "electricity",
@@ -721,7 +721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T14:24:27.936Z",
+    "last_updated": "2026-09-13T15:05:37.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.",

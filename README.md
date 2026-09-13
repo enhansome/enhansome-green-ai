@@ -48,7 +48,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 
 *Tools to monitor power consumption and environmental impacts.*
 
-* [Scaphandre](https://github.com/hubblo-org/scaphandre) ⭐ 1,970 | 🐛 97 | 🌐 Rust | 📅 2026-07-19 – A metrology agent dedicated to electrical power consumption metrics.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![Docker](https://img.shields.io/badge/Docker-black?style=flat\&logo=docker) ![k8s](https://img.shields.io/badge/k8s-black?style=flat\&logo=kubernetes)
+* [Scaphandre](https://github.com/hubblo-org/scaphandre) ⭐ 1,971 | 🐛 97 | 🌐 Rust | 📅 2026-07-19 – A metrology agent dedicated to electrical power consumption metrics.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![Docker](https://img.shields.io/badge/Docker-black?style=flat\&logo=docker) ![k8s](https://img.shields.io/badge/k8s-black?style=flat\&logo=kubernetes)
 * [CodeCarbon](https://github.com/mlco2/codecarbon) ⭐ 1,914 | 🐛 184 | 🌐 Python | 📅 2026-09-10 – Track emissions from Compute and recommend ways to reduce their impact on the environment.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat\&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat\&logo=cli)
 * [PowerJoular](https://github.com/joular/powerjoular) ⭐ 117 | 🐛 6 | 🌐 Ada | 📅 2026-09-08 – Monitor power consumption of multiple platforms and processes.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Raspberry](https://img.shields.io/badge/Raspberry-black?style=flat\&logo=raspberrypi) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat\&logo=cli)
 * [ALUMET](https://github.com/alumet-dev/alumet) ⭐ 80 | 🐛 47 | 🌐 Rust | 📅 2026-09-11 – A modular and efficient software measurement tool.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat\&logo=cli)
@@ -217,4 +217,4 @@ Generic tools:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
