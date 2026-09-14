@@ -21,7 +21,7 @@
                 "open_issues": 184,
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1914,
+                "stars": 1915,
                 "topics": [
                   "ai-ethics",
                   "carbon-emissions",
@@ -94,10 +94,10 @@
                 "language": "Python",
                 "license": "MPL-2.0",
                 "last_commit": "2026-08-09T06:40:24Z",
-                "open_issues": 16,
+                "open_issues": 18,
                 "owner": "mlco2",
                 "repo": "ecologits",
-                "stars": 328,
+                "stars": 331,
                 "topics": [
                   "genai",
                   "generative-ai",
@@ -263,7 +263,7 @@
                 "open_issues": 184,
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1914,
+                "stars": 1915,
                 "topics": [
                   "ai-ethics",
                   "carbon-emissions",
@@ -325,7 +325,7 @@
                 "open_issues": 47,
                 "owner": "alumet-dev",
                 "repo": "alumet",
-                "stars": 80,
+                "stars": 81,
                 "topics": [
                   "cloud-computing",
                   "edge-computing",
@@ -455,7 +455,7 @@
                 "language": "C++",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-11T20:58:03Z",
-                "open_issues": 725,
+                "open_issues": 726,
                 "owner": "geopm",
                 "repo": "geopm",
                 "stars": 112,
@@ -721,7 +721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T15:05:37.705Z",
+    "last_updated": "2026-09-14T17:03:56.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.",
