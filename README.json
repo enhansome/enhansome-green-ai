@@ -17,7 +17,7 @@
                 "id": 263364731,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-10T09:15:36Z",
+                "last_commit": "2026-09-16T15:27:57Z",
                 "open_issues": 184,
                 "owner": "mlco2",
                 "repo": "codecarbon",
@@ -259,7 +259,7 @@
                 "id": 263364731,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-10T09:15:36Z",
+                "last_commit": "2026-09-16T15:27:57Z",
                 "open_issues": 184,
                 "owner": "mlco2",
                 "repo": "codecarbon",
@@ -321,8 +321,8 @@
                 "id": 782430805,
                 "language": "Rust",
                 "license": "EUPL-1.2",
-                "last_commit": "2026-09-15T13:45:05Z",
-                "open_issues": 48,
+                "last_commit": "2026-09-16T08:42:40Z",
+                "open_issues": 49,
                 "owner": "alumet-dev",
                 "repo": "alumet",
                 "stars": 81,
@@ -721,7 +721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T15:43:14.191Z",
+    "last_updated": "2026-09-16T15:34:38.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.",
