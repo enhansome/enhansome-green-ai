@@ -94,7 +94,7 @@
                 "language": "Python",
                 "license": "MPL-2.0",
                 "last_commit": "2026-08-09T06:40:24Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "mlco2",
                 "repo": "ecologits",
                 "stars": 331,
@@ -293,7 +293,7 @@
                 "open_issues": 6,
                 "owner": "joular",
                 "repo": "powerjoular",
-                "stars": 117,
+                "stars": 118,
                 "topics": [
                   "ada",
                   "energy",
@@ -721,7 +721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T15:34:38.797Z",
+    "last_updated": "2026-09-17T15:40:56.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.",
