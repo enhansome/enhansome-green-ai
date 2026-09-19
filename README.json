@@ -17,11 +17,11 @@
                 "id": 263364731,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-16T15:27:57Z",
-                "open_issues": 184,
+                "last_commit": "2026-09-19T13:13:57Z",
+                "open_issues": 185,
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1917,
+                "stars": 1918,
                 "topics": [
                   "ai-ethics",
                   "carbon-emissions",
@@ -51,7 +51,7 @@
                 "open_issues": 12,
                 "owner": "saintslab",
                 "repo": "carbontracker",
-                "stars": 482,
+                "stars": 483,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
@@ -218,7 +218,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-19T18:33:40Z",
-                "open_issues": 97,
+                "open_issues": 101,
                 "owner": "hubblo-org",
                 "repo": "scaphandre",
                 "stars": 1973,
@@ -259,11 +259,11 @@
                 "id": 263364731,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-16T15:27:57Z",
-                "open_issues": 184,
+                "last_commit": "2026-09-19T13:13:57Z",
+                "open_issues": 185,
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1917,
+                "stars": 1918,
                 "topics": [
                   "ai-ethics",
                   "carbon-emissions",
@@ -512,7 +512,7 @@
                 "id": 426302385,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-07T19:19:06Z",
+                "last_commit": "2026-09-19T09:55:48Z",
                 "open_issues": 32,
                 "owner": "Boavizta",
                 "repo": "boaviztapi",
@@ -721,7 +721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T15:12:42.262Z",
+    "last_updated": "2026-09-19T14:50:45.584Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.",
