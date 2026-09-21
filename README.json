@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-19T13:13:57Z",
-                "open_issues": 185,
+                "open_issues": 186,
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1919,
+                "stars": 1920,
                 "topics": [
                   "ai-ethics",
                   "carbon-emissions",
@@ -97,7 +97,7 @@
                 "open_issues": 17,
                 "owner": "mlco2",
                 "repo": "ecologits",
-                "stars": 332,
+                "stars": 333,
                 "topics": [
                   "genai",
                   "generative-ai",
@@ -221,7 +221,7 @@
                 "open_issues": 101,
                 "owner": "hubblo-org",
                 "repo": "scaphandre",
-                "stars": 1973,
+                "stars": 1974,
                 "topics": [
                   "carbon-footprint",
                   "electricity",
@@ -260,10 +260,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-19T13:13:57Z",
-                "open_issues": 185,
+                "open_issues": 186,
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1919,
+                "stars": 1920,
                 "topics": [
                   "ai-ethics",
                   "carbon-emissions",
@@ -293,7 +293,7 @@
                 "open_issues": 6,
                 "owner": "joular",
                 "repo": "powerjoular",
-                "stars": 118,
+                "stars": 119,
                 "topics": [
                   "ada",
                   "energy",
@@ -321,11 +321,11 @@
                 "id": 782430805,
                 "language": "Rust",
                 "license": "EUPL-1.2",
-                "last_commit": "2026-09-18T13:19:56Z",
+                "last_commit": "2026-09-21T03:33:37Z",
                 "open_issues": 47,
                 "owner": "alumet-dev",
                 "repo": "alumet",
-                "stars": 81,
+                "stars": 82,
                 "topics": [
                   "cloud-computing",
                   "edge-computing",
@@ -454,8 +454,8 @@
                 "id": 44407454,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-11T20:58:03Z",
-                "open_issues": 728,
+                "last_commit": "2026-09-21T16:50:19Z",
+                "open_issues": 730,
                 "owner": "geopm",
                 "repo": "geopm",
                 "stars": 112,
@@ -721,7 +721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T14:54:29.460Z",
+    "last_updated": "2026-09-21T17:12:46.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.",
