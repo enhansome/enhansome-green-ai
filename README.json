@@ -17,8 +17,8 @@
                 "id": 263364731,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-23T08:53:46Z",
-                "open_issues": 189,
+                "last_commit": "2026-09-23T17:05:06Z",
+                "open_issues": 186,
                 "owner": "mlco2",
                 "repo": "codecarbon",
                 "stars": 1922,
@@ -97,7 +97,7 @@
                 "open_issues": 16,
                 "owner": "mlco2",
                 "repo": "ecologits",
-                "stars": 333,
+                "stars": 336,
                 "topics": [
                   "genai",
                   "generative-ai",
@@ -259,8 +259,8 @@
                 "id": 263364731,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-23T08:53:46Z",
-                "open_issues": 189,
+                "last_commit": "2026-09-23T17:05:06Z",
+                "open_issues": 186,
                 "owner": "mlco2",
                 "repo": "codecarbon",
                 "stars": 1922,
@@ -454,7 +454,7 @@
                 "id": 44407454,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-22T20:44:06Z",
+                "last_commit": "2026-09-23T19:48:48Z",
                 "open_issues": 728,
                 "owner": "geopm",
                 "repo": "geopm",
@@ -721,7 +721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T15:35:05.442Z",
+    "last_updated": "2026-09-24T15:56:11.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.",
