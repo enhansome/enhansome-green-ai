@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-23T17:05:06Z",
-                "open_issues": 186,
+                "open_issues": 185,
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1922,
+                "stars": 1923,
                 "topics": [
                   "ai-ethics",
                   "carbon-emissions",
@@ -51,7 +51,7 @@
                 "open_issues": 12,
                 "owner": "saintslab",
                 "repo": "carbontracker",
-                "stars": 482,
+                "stars": 483,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
@@ -93,7 +93,7 @@
                 "id": 751927947,
                 "language": "Python",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-22T07:12:46Z",
+                "last_commit": "2026-09-25T07:01:36Z",
                 "open_issues": 16,
                 "owner": "mlco2",
                 "repo": "ecologits",
@@ -260,10 +260,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-23T17:05:06Z",
-                "open_issues": 186,
+                "open_issues": 185,
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1922,
+                "stars": 1923,
                 "topics": [
                   "ai-ethics",
                   "carbon-emissions",
@@ -321,8 +321,8 @@
                 "id": 782430805,
                 "language": "Rust",
                 "license": "EUPL-1.2",
-                "last_commit": "2026-09-21T03:33:37Z",
-                "open_issues": 47,
+                "last_commit": "2026-09-25T15:01:11Z",
+                "open_issues": 48,
                 "owner": "alumet-dev",
                 "repo": "alumet",
                 "stars": 82,
@@ -721,7 +721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T15:56:11.929Z",
+    "last_updated": "2026-09-25T15:56:00.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.",
