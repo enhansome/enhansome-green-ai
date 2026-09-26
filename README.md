@@ -26,7 +26,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 * [CodeCarbon](https://github.com/mlco2/codecarbon) ⭐ 1,923 | 🐛 185 | 🌐 Python | 📅 2026-09-23 – Track emissions from Compute and recommend ways to reduce their impact on the environment.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat\&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat\&logo=cli)
 * [carbontracker](https://github.com/lfwa/carbontracker) ⭐ 483 | 🐛 12 | 🌐 Python | 📅 2026-08-27 – Track and predict the energy consumption and carbon footprint of training deep learning models.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
 * [Zeus](https://github.com/SymbioticLab/Zeus) ⭐ 374 | 🐛 10 | 🌐 Python | 📅 2026-09-21 – A framework for deep learning energy measurement and optimization.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
-* [EcoLogits](https://github.com/genai-impact/ecologits) ⭐ 336 | 🐛 16 | 🌐 Python | 📅 2026-09-25 – Estimates the energy consumption and environmental footprint of LLM inference through APIs.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat\&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
+* [EcoLogits](https://github.com/genai-impact/ecologits) ⭐ 337 | 🐛 16 | 🌐 Python | 📅 2026-09-25 – Estimates the energy consumption and environmental footprint of LLM inference through APIs.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat\&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
 * [Eco2AI](https://github.com/sb-ai-lab/Eco2AI) ⭐ 280 | 🐛 4 | 🌐 Python | 📅 2025-03-10 – A python library which accumulates statistics about power consumption and CO2 emission during running code.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
 * [Tracarbon](https://github.com/fvaleye/tracarbon) ⭐ 111 | 🐛 3 | 🌐 Python | 📅 2026-09-07 – Tracks your device's energy consumption and calculates your carbon emissions using your location.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat\&logo=apple) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
 * [AIPowerMeter](https://github.com/GreenAI-Uppa/AIPowerMeter) ⭐ 23 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-03-06 – Easily monitor energy usage of machine learning programs.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
@@ -86,7 +86,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 
 Generic tools:
 
-* [Boaviztapi](https://github.com/Boavizta/boaviztapi/) ⭐ 100 | 🐛 32 | 🌐 Python | 📅 2026-09-19 - Multi-criteria impacts of compute resources taking into account manufacturing and usage.
+* [Boaviztapi](https://github.com/Boavizta/boaviztapi/) ⭐ 100 | 🐛 33 | 🌐 Python | 📅 2026-09-19 - Multi-criteria impacts of compute resources taking into account manufacturing and usage.
 * [Datavizta](https://datavizta.boavizta.org/serversimpact) - Compute resources data explorer not limited to AI.
 * [EcoDiag](https://ecoinfo.cnrs.fr/ecodiag-calcul/) - Compute carbon footprint of IT resources taking into account manufactuing and usage (🇫🇷 only).
 
@@ -217,4 +217,4 @@ Generic tools:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._

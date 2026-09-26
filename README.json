@@ -97,7 +97,7 @@
                 "open_issues": 16,
                 "owner": "mlco2",
                 "repo": "ecologits",
-                "stars": 336,
+                "stars": 337,
                 "topics": [
                   "genai",
                   "generative-ai",
@@ -513,7 +513,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-19T09:55:48Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "Boavizta",
                 "repo": "boaviztapi",
                 "stars": 100,
@@ -721,7 +721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T15:56:00.918Z",
+    "last_updated": "2026-09-26T15:07:38.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.",
