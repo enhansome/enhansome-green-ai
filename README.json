@@ -97,7 +97,7 @@
                 "open_issues": 14,
                 "owner": "mlco2",
                 "repo": "ecologits",
-                "stars": 342,
+                "stars": 343,
                 "topics": [
                   "genai",
                   "generative-ai",
@@ -324,7 +324,7 @@
                 "open_issues": 101,
                 "owner": "hubblo-org",
                 "repo": "scaphandre",
-                "stars": 1978,
+                "stars": 1979,
                 "topics": [
                   "carbon-footprint",
                   "electricity",
@@ -724,7 +724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:47:41.763Z",
+    "last_updated": "2026-10-03T15:14:58.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.",
