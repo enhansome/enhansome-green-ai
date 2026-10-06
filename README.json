@@ -21,7 +21,7 @@
                 "open_issues": 194,
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1925,
+                "stars": 1926,
                 "topics": [
                   "ai-ethics",
                   "carbon-emissions",
@@ -94,7 +94,7 @@
                 "language": "Python",
                 "license": "MPL-2.0",
                 "last_commit": "2026-09-29T19:33:08Z",
-                "open_issues": 14,
+                "open_issues": 16,
                 "owner": "mlco2",
                 "repo": "ecologits",
                 "stars": 344,
@@ -161,7 +161,7 @@
                 "id": 468889604,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T21:38:19Z",
+                "last_commit": "2026-10-06T08:25:15Z",
                 "open_issues": 3,
                 "owner": "fvaleye",
                 "repo": "tracarbon",
@@ -366,7 +366,7 @@
                 "open_issues": 194,
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1925,
+                "stars": 1926,
                 "topics": [
                   "ai-ethics",
                   "carbon-emissions",
@@ -672,8 +672,8 @@
                 "id": 426302385,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-30T12:05:55Z",
-                "open_issues": 31,
+                "last_commit": "2026-10-06T10:27:10Z",
+                "open_issues": 34,
                 "owner": "Boavizta",
                 "repo": "boaviztapi",
                 "stars": 101,
@@ -724,7 +724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T19:55:17.953Z",
+    "last_updated": "2026-10-06T10:32:36.966Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.",
