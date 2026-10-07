@@ -50,8 +50,8 @@ All contributions are welcome. Add links through [pull requests](https://github.
 
 * [Scaphandre](https://github.com/hubblo-org/scaphandre) ⭐ 1,979 | 🐛 101 | 🌐 Rust | 📅 2026-07-19 – A metrology agent dedicated to electrical power consumption metrics.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![Docker](https://img.shields.io/badge/Docker-black?style=flat\&logo=docker) ![k8s](https://img.shields.io/badge/k8s-black?style=flat\&logo=kubernetes)
 * [CodeCarbon](https://github.com/mlco2/codecarbon) ⭐ 1,926 | 🐛 194 | 🌐 Python | 📅 2026-10-05 – Track emissions from Compute and recommend ways to reduce their impact on the environment.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat\&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat\&logo=cli)
-* [PowerJoular](https://github.com/joular/powerjoular) ⭐ 120 | 🐛 4 | 🌐 Ada | 📅 2026-10-06 – Monitor power consumption of multiple platforms and processes.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Raspberry](https://img.shields.io/badge/Raspberry-black?style=flat\&logo=raspberrypi) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat\&logo=cli)
-* [ALUMET](https://github.com/alumet-dev/alumet) ⭐ 83 | 🐛 47 | 🌐 Rust | 📅 2026-10-05 – A modular and efficient software measurement tool.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat\&logo=cli)
+* [PowerJoular](https://github.com/joular/powerjoular) ⭐ 120 | 🐛 4 | 🌐 Ada | 📅 2026-10-07 – Monitor power consumption of multiple platforms and processes.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Raspberry](https://img.shields.io/badge/Raspberry-black?style=flat\&logo=raspberrypi) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat\&logo=cli)
+* [ALUMET](https://github.com/alumet-dev/alumet) ⭐ 83 | 🐛 48 | 🌐 Rust | 📅 2026-10-07 – A modular and efficient software measurement tool.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat\&logo=cli)
 * [Powerletrics](https://github.com/green-kernel/powerletrics) ⭐ 58 | 🐛 11 | 🌐 Python | 📅 2024-12-10 – PowerLetrics is a framework designed to monitor and analyze power consumption metrics at the process level on Linux.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux)
 * [cardamon](https://github.com/Root-Branch/cardamon-core) ⭐ 42 | 🐛 31 | 🌐 Rust | 📅 2026-03-01 – A tool for measuring the power consumption and carbon footprint of your software.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat\&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows)
 * [Boagent](https://github.com/Boavizta/boagent) ⭐ 32 | 🐛 4 | 🌐 Python | 📅 2026-09-03 – Local API and monitoring agent focussed on environmental impacts of the host.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux)
@@ -86,7 +86,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 
 Generic tools:
 
-* [Boaviztapi](https://github.com/Boavizta/boaviztapi/) ⭐ 101 | 🐛 34 | 🌐 Python | 📅 2026-10-06 - Multi-criteria impacts of compute resources taking into account manufacturing and usage.
+* [Boaviztapi](https://github.com/Boavizta/boaviztapi/) ⭐ 101 | 🐛 32 | 🌐 Python | 📅 2026-10-07 - Multi-criteria impacts of compute resources taking into account manufacturing and usage.
 * [Datavizta](https://datavizta.boavizta.org/serversimpact) - Compute resources data explorer not limited to AI.
 * [EcoDiag](https://ecoinfo.cnrs.fr/ecodiag-calcul/) - Compute carbon footprint of IT resources taking into account manufactuing and usage (🇫🇷 only).
 
@@ -217,4 +217,4 @@ Generic tools:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
