@@ -25,7 +25,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 
 * [CodeCarbon](https://github.com/mlco2/codecarbon) ⭐ 1,928 | 🐛 182 | 🌐 Python | 📅 2026-10-09 – Track emissions from Compute and recommend ways to reduce their impact on the environment.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat\&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat\&logo=cli)
 * [carbontracker](https://github.com/lfwa/carbontracker) ⭐ 485 | 🐛 12 | 🌐 Python | 📅 2026-08-27 – Track and predict the energy consumption and carbon footprint of training deep learning models.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
-* [Zeus](https://github.com/SymbioticLab/Zeus) ⭐ 379 | 🐛 10 | 🌐 Python | 📅 2026-10-08 – A framework for deep learning energy measurement and optimization.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
+* [Zeus](https://github.com/SymbioticLab/Zeus) ⭐ 379 | 🐛 10 | 🌐 Python | 📅 2026-10-10 – A framework for deep learning energy measurement and optimization.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
 * [EcoLogits](https://github.com/genai-impact/ecologits) ⭐ 345 | 🐛 16 | 🌐 Python | 📅 2026-09-29 – Estimates the energy consumption and environmental footprint of LLM inference through APIs.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat\&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
 * [Eco2AI](https://github.com/sb-ai-lab/Eco2AI) ⭐ 281 | 🐛 2 | 🌐 Python | 📅 2026-10-06 – A python library which accumulates statistics about power consumption and CO2 emission during running code.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
 * [Tracarbon](https://github.com/fvaleye/tracarbon) ⭐ 112 | 🐛 3 | 🌐 Python | 📅 2026-10-06 – Tracks your device's energy consumption and calculates your carbon emissions using your location.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat\&logo=apple) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
@@ -70,7 +70,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 
 *Tools to optimize energy consumption or environmental impacts.*
 
-* [Zeus](https://github.com/SymbioticLab/Zeus) ⭐ 379 | 🐛 10 | 🌐 Python | 📅 2026-10-08 – A framework for deep learning energy measurement and optimization.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
+* [Zeus](https://github.com/SymbioticLab/Zeus) ⭐ 379 | 🐛 10 | 🌐 Python | 📅 2026-10-10 – A framework for deep learning energy measurement and optimization.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
 * [GEOPM](https://github.com/geopm/geopm) ⭐ 113 | 🐛 726 | 🌐 C++ | 📅 2026-09-30 – A framework to enable efficient power management and performance optimizations.<br> ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![k8s](https://img.shields.io/badge/k8s-black?style=flat\&logo=kubernetes)
 
 ### Calculation Tools
@@ -217,4 +217,4 @@ Generic tools:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
