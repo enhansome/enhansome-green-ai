@@ -97,7 +97,7 @@
                 "open_issues": 19,
                 "owner": "mlco2",
                 "repo": "ecologits",
-                "stars": 359,
+                "stars": 360,
                 "topics": [
                   "genai",
                   "generative-ai",
@@ -425,7 +425,7 @@
                 "id": 782430805,
                 "language": "Rust",
                 "license": "EUPL-1.2",
-                "last_commit": "2026-11-02T12:53:23Z",
+                "last_commit": "2026-11-04T14:27:22Z",
                 "open_issues": 47,
                 "owner": "alumet-dev",
                 "repo": "alumet",
@@ -616,7 +616,7 @@
                 "language": "C++",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-30T19:03:18Z",
-                "open_issues": 734,
+                "open_issues": 735,
                 "owner": "geopm",
                 "repo": "geopm",
                 "stars": 113,
@@ -668,13 +668,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "🛠 Giving access to BOAVIZTA reference data and methodologies trough a RESTful API",
-                "homepage": null,
+                "description": "🛠  Estimate the environmental impacts of digital equipment or services by exposing the BOAVIZTA reference data and methodologies trough a RESTful API",
+                "homepage": "https://doc.api.boavizta.org/",
                 "id": 426302385,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-03T08:46:52Z",
-                "open_issues": 32,
+                "last_commit": "2026-11-04T18:06:05Z",
+                "open_issues": 31,
                 "owner": "Boavizta",
                 "repo": "boaviztapi",
                 "stars": 101,
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T18:40:04.575Z",
+    "last_updated": "2026-11-04T18:53:07.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.",
