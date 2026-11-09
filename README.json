@@ -21,7 +21,7 @@
                 "open_issues": 148,
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1939,
+                "stars": 1941,
                 "topics": [
                   "ai-ethics",
                   "carbon-emissions",
@@ -51,7 +51,7 @@
                 "open_issues": 13,
                 "owner": "saintslab",
                 "repo": "carbontracker",
-                "stars": 487,
+                "stars": 488,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:05.704Z"
@@ -97,7 +97,7 @@
                 "open_issues": 19,
                 "owner": "mlco2",
                 "repo": "ecologits",
-                "stars": 361,
+                "stars": 362,
                 "topics": [
                   "genai",
                   "generative-ai",
@@ -324,7 +324,7 @@
                 "open_issues": 103,
                 "owner": "hubblo-org",
                 "repo": "scaphandre",
-                "stars": 2017,
+                "stars": 2019,
                 "topics": [
                   "carbon-footprint",
                   "electricity",
@@ -366,7 +366,7 @@
                 "open_issues": 148,
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1939,
+                "stars": 1941,
                 "topics": [
                   "ai-ethics",
                   "carbon-emissions",
@@ -425,8 +425,8 @@
                 "id": 782430805,
                 "language": "Rust",
                 "license": "EUPL-1.2",
-                "last_commit": "2026-11-06T10:37:30Z",
-                "open_issues": 49,
+                "last_commit": "2026-11-09T13:39:55Z",
+                "open_issues": 48,
                 "owner": "alumet-dev",
                 "repo": "alumet",
                 "stars": 83,
@@ -549,8 +549,8 @@
                     "id": 699050353,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-08T15:39:22Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-11-08T19:29:12Z",
+                    "open_issues": 2,
                     "owner": "mahendrapaipuri",
                     "repo": "jupyter-power-usage",
                     "stars": 10,
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T17:15:20.652Z",
+    "last_updated": "2026-11-09T21:38:45.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.",
