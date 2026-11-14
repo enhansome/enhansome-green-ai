@@ -23,7 +23,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 
 *Tools to measure and compute environmental impacts of AI.*
 
-* [CodeCarbon](https://github.com/mlco2/codecarbon) ⭐ 1,943 | 🐛 147 | 🌐 Python | 📅 2026-11-13 – Track emissions from Compute and recommend ways to reduce their impact on the environment.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat\&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat\&logo=cli)
+* [CodeCarbon](https://github.com/mlco2/codecarbon) ⭐ 1,944 | 🐛 150 | 🌐 Python | 📅 2026-11-13 – Track emissions from Compute and recommend ways to reduce their impact on the environment.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat\&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat\&logo=cli)
 * [carbontracker](https://github.com/lfwa/carbontracker) ⭐ 488 | 🐛 13 | 🌐 Python | 📅 2026-11-05 – Track and predict the energy consumption and carbon footprint of training deep learning models.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
 * [Zeus](https://github.com/SymbioticLab/Zeus) ⭐ 386 | 🐛 9 | 🌐 Python | 📅 2026-11-04 – A framework for deep learning energy measurement and optimization.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
 * [EcoLogits](https://github.com/genai-impact/ecologits) ⭐ 364 | 🐛 21 | 🌐 Python | 📅 2026-11-06 – Estimates the energy consumption and environmental footprint of LLM inference through APIs.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat\&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
@@ -37,7 +37,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 <br>
 
 * [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker) ⚠️ Archived – A simple drop-in method to track energy usage, carbon emissions, and compute utilization of your system.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
-* [PyJoules](https://github.com/powerapi-ng/pyJoules) ⭐ 95 | 🐛 38 | 🌐 Python | 📅 2025-12-29 – A Python library to capture the energy consumption of code snippets.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
+* [PyJoules](https://github.com/powerapi-ng/pyJoules) ⭐ 96 | 🐛 38 | 🌐 Python | 📅 2025-12-29 – A Python library to capture the energy consumption of code snippets.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
 * [GATorch](https://github.com/GreenAITorch/GATorch) ⭐ 9 | 🐛 3 | 🌐 Python | 📅 2023-04-01 – An Energy-Aware PyTorch Extension.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
 * [GPU Meter](https://github.com/autoai-incubator/powermeter) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2021-09-21 – Power Consumption Meter for NVIDIA GPUs.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
 * [carbonai](https://github.com/Capgemini-Invent-France/CarbonAI) – Python package to monitor the power consumption of any algorithm.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat\&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
@@ -48,9 +48,9 @@ All contributions are welcome. Add links through [pull requests](https://github.
 
 *Tools to monitor power consumption and environmental impacts.*
 
-* [Scaphandre](https://github.com/hubblo-org/scaphandre) ⭐ 2,020 | 🐛 103 | 🌐 Rust | 📅 2026-07-19 – A metrology agent dedicated to electrical power consumption metrics.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![Docker](https://img.shields.io/badge/Docker-black?style=flat\&logo=docker) ![k8s](https://img.shields.io/badge/k8s-black?style=flat\&logo=kubernetes)
-* [CodeCarbon](https://github.com/mlco2/codecarbon) ⭐ 1,943 | 🐛 147 | 🌐 Python | 📅 2026-11-13 – Track emissions from Compute and recommend ways to reduce their impact on the environment.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat\&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat\&logo=cli)
-* [PowerJoular](https://github.com/joular/powerjoular) ⭐ 122 | 🐛 3 | 🌐 Ada | 📅 2026-11-10 – Monitor power consumption of multiple platforms and processes.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Raspberry](https://img.shields.io/badge/Raspberry-black?style=flat\&logo=raspberrypi) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat\&logo=cli)
+* [Scaphandre](https://github.com/hubblo-org/scaphandre) ⭐ 2,021 | 🐛 103 | 🌐 Rust | 📅 2026-07-19 – A metrology agent dedicated to electrical power consumption metrics.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![Docker](https://img.shields.io/badge/Docker-black?style=flat\&logo=docker) ![k8s](https://img.shields.io/badge/k8s-black?style=flat\&logo=kubernetes)
+* [CodeCarbon](https://github.com/mlco2/codecarbon) ⭐ 1,944 | 🐛 150 | 🌐 Python | 📅 2026-11-13 – Track emissions from Compute and recommend ways to reduce their impact on the environment.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat\&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat\&logo=cli)
+* [PowerJoular](https://github.com/joular/powerjoular) ⭐ 123 | 🐛 3 | 🌐 Ada | 📅 2026-11-10 – Monitor power consumption of multiple platforms and processes.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Raspberry](https://img.shields.io/badge/Raspberry-black?style=flat\&logo=raspberrypi) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat\&logo=cli)
 * [ALUMET](https://github.com/alumet-dev/alumet) ⭐ 83 | 🐛 51 | 🌐 Rust | 📅 2026-11-12 – A modular and efficient software measurement tool.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat\&logo=cli)
 * [Powerletrics](https://github.com/green-kernel/powerletrics) ⭐ 58 | 🐛 11 | 🌐 Python | 📅 2024-12-10 – PowerLetrics is a framework designed to monitor and analyze power consumption metrics at the process level on Linux.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux)
 * [cardamon](https://github.com/Root-Branch/cardamon-core) ⭐ 42 | 🐛 31 | 🌐 Rust | 📅 2026-03-01 – A tool for measuring the power consumption and carbon footprint of your software.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat\&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat\&logo=windows)
@@ -71,7 +71,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 *Tools to optimize energy consumption or environmental impacts.*
 
 * [Zeus](https://github.com/SymbioticLab/Zeus) ⭐ 386 | 🐛 9 | 🌐 Python | 📅 2026-11-04 – A framework for deep learning energy measurement and optimization.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia)
-* [GEOPM](https://github.com/geopm/geopm) ⭐ 113 | 🐛 736 | 🌐 C++ | 📅 2026-11-06 – A framework to enable efficient power management and performance optimizations.<br> ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![k8s](https://img.shields.io/badge/k8s-black?style=flat\&logo=kubernetes)
+* [GEOPM](https://github.com/geopm/geopm) ⭐ 113 | 🐛 737 | 🌐 C++ | 📅 2026-11-06 – A framework to enable efficient power management and performance optimizations.<br> ![GPU](https://img.shields.io/badge/GPU-black?style=flat\&logo=nvidia) ![k8s](https://img.shields.io/badge/k8s-black?style=flat\&logo=kubernetes)
 
 ### Calculation Tools
 
@@ -86,7 +86,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 
 Generic tools:
 
-* [Boaviztapi](https://github.com/Boavizta/boaviztapi/) ⭐ 102 | 🐛 31 | 🌐 Python | 📅 2026-11-12 - Multi-criteria impacts of compute resources taking into account manufacturing and usage.
+* [Boaviztapi](https://github.com/Boavizta/boaviztapi/) ⭐ 102 | 🐛 37 | 🌐 Python | 📅 2026-11-14 - Multi-criteria impacts of compute resources taking into account manufacturing and usage.
 * [Datavizta](https://datavizta.boavizta.org/serversimpact) - Compute resources data explorer not limited to AI.
 * [EcoDiag](https://ecoinfo.cnrs.fr/ecodiag-calcul/) - Compute carbon footprint of IT resources taking into account manufactuing and usage (🇫🇷 only).
 
@@ -217,4 +217,4 @@ Generic tools:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
