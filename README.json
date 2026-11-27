@@ -21,7 +21,7 @@
                 "open_issues": 137,
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1955,
+                "stars": 1956,
                 "topics": [
                   "ai-ethics",
                   "carbon-emissions",
@@ -366,7 +366,7 @@
                 "open_issues": 137,
                 "owner": "mlco2",
                 "repo": "codecarbon",
-                "stars": 1955,
+                "stars": 1956,
                 "topics": [
                   "ai-ethics",
                   "carbon-emissions",
@@ -425,8 +425,8 @@
                 "id": 782430805,
                 "language": "Rust",
                 "license": "EUPL-1.2",
-                "last_commit": "2026-11-26T15:31:11Z",
-                "open_issues": 55,
+                "last_commit": "2026-11-27T14:31:19Z",
+                "open_issues": 54,
                 "owner": "alumet-dev",
                 "repo": "alumet",
                 "stars": 84,
@@ -673,8 +673,8 @@
                 "id": 426302385,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-24T17:48:15Z",
-                "open_issues": 34,
+                "last_commit": "2026-11-27T12:07:43Z",
+                "open_issues": 35,
                 "owner": "Boavizta",
                 "repo": "boaviztapi",
                 "stars": 102,
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T20:33:48.881Z",
+    "last_updated": "2026-11-27T20:20:13.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.",
